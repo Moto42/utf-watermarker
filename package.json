@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Uses UTF lookalike characters to watermark text documents in a manner invisible to the human eye, and easily read by a program if you know the code being used.",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/moto42/utf-watermarker"
+  },
   "scripts": {
     "test": "jest"
   },
