@@ -1,0 +1,17 @@
+{
+  "name": "utf-watermarker",
+  "version": "1.0.0",
+  "description": "Uses UTF lookalike characters to watermark text documents in a manner invisible to the human eye, and easily read by a program if you know the code being used.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "data",
+    "security",
+    "watermark",
+    "javascript"
+  ],
+  "author": "Wesley Williams",
+  "license": "ISC"
+}
